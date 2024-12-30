@@ -1,49 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Library Management System</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0 auto;
-      max-width: 900px;
-      padding: 20px;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #4CAF50;
-    }
-    a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      margin: 5px 0;
-    }
-    .code-block {
-      background-color: #282c34;
-      color: #f8f8f2;
-      padding: 10px;
-      border-radius: 5px;
-      font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-    }
-    .github-stats img {
-      margin: 10px 0;
-      border-radius: 10px;
-    }
-  </style>
-</head>
 <body>
 
 <h1>📚 Library Management System</h1>
