@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-<h1>📚 Library Management System</h1>
+<h1>📚 BOOK NEST - Library Management System</h1>
 <p>
   A Python-based library management system with a graphical interface using Tkinter. This project helps manage books, members, and transactions for efficient library operations.
 </p>
